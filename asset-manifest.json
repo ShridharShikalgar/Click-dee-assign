@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Click-dee-assign/static/css/main.1f41690f.css",
+    "main.js": "/Click-dee-assign/static/js/main.7c0d52d8.js",
+    "index.html": "/Click-dee-assign/index.html",
+    "main.1f41690f.css.map": "/Click-dee-assign/static/css/main.1f41690f.css.map",
+    "main.7c0d52d8.js.map": "/Click-dee-assign/static/js/main.7c0d52d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f41690f.css",
+    "static/js/main.7c0d52d8.js"
+  ]
+}
